@@ -1,0 +1,14 @@
+Uncompleted orders: 
+Order number: 1, Number of Hamburgers: 3, Number of Cheese burgers: 15, Number of Veggie burgers: 4, Number of Sodas: 10, To go order: false
+Order number: 2, Number of Hamburgers: 10, Number of Cheese burgers: 10, Number of Veggie burgers: 3, Number of Sodas: 4, To go order: true
+Order number: 3, Number of Hamburgers: 1, Number of Cheese burgers: 1, Number of Veggie burgers: 1, Number of Sodas: 2, To go order: false
+Order number: 4, Number of Hamburgers: 9, Number of Cheese burgers: 9, Number of Veggie burgers: 9, Number of Sodas: 9, To go order: true
+Order number: 5, Number of Hamburgers: 15, Number of Cheese burgers: 0, Number of Veggie burgers: 0, Number of Sodas: 15, To go order: false
+Order number: 6, Number of Hamburgers: 3, Number of Cheese burgers: 3, Number of Veggie burgers: 3, Number of Sodas: 3, To go order: true
+ 
+ 
+Completed: 
+ 
+ 
+Total number of: 
+Hamburgers = 41, Cheese burgers = 38, Veggie burgers = 20, Sodas = 43
